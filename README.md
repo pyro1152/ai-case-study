@@ -98,6 +98,9 @@ They are appropriate because it would equip Apera with the tools necessary to po
 ## References
 
 [Apera's Website[1]](https://apera.ai/)
+
 [Apeara's CrunchBase page[2]](https://www.crunchbase.com/organization/apera)
+
 [Article by Neff Automation[3]](https://neffautomation.com/apera)
+
 [3D Vision Market info Market Info[4]](https://www.factmr.com/report/bin-picking-system-market#:~:text=Prominent%20bin%20picking%20system%20manufacturers%20are%20Apera%20AI%2C,Universal%20Robots%2C%20VISIO%20NERF%2C%20ZIVID%2C%20and%20other%20players.)
